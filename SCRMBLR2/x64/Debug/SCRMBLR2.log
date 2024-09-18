@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Ahmads Laptop\repos\Projects\projects testing\SCRMBLR2\Source.cpp(278,48): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Ahmads Laptop\repos\Projects\projects testing\SCRMBLR2\Source.cpp(278,48): warning C4267:         with
+C:\Ahmads Laptop\repos\Projects\projects testing\SCRMBLR2\Source.cpp(278,48): warning C4267:         [
+C:\Ahmads Laptop\repos\Projects\projects testing\SCRMBLR2\Source.cpp(278,48): warning C4267:             _Ty=int
+C:\Ahmads Laptop\repos\Projects\projects testing\SCRMBLR2\Source.cpp(278,48): warning C4267:         ]
+  SCRMBLR2.vcxproj -> C:\Ahmads Laptop\repos\Projects\projects testing\SCRMBLR2\x64\Debug\SCRMBLR2.exe
